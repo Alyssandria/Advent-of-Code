@@ -1,0 +1,5 @@
+# EDITOR CONFIG
+.vscode
+
+# EXE FILES
+*.exe
